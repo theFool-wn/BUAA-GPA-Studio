@@ -32,7 +32,7 @@ $$X_a = \frac{1}{|P|}\sum_{i\in P} X_i$$
 
 百分制课程绩点：
 
-$$G = \begin{cases} 4 - \dfrac{3 \times (100-X)^2}{1600}, & X \geq 60 \\ 0, & X < 60 \end{cases}$$
+$$G = \begin{cases} 4 - \dfrac{3 \times (100-X)^2}{1600}, & X \geq 60 \\\ 0, & X < 60 \end{cases}$$
 
 五级制课程绩点：
 
